@@ -1,12 +1,12 @@
 {
   "name": "semantic-release-shared-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shared configuration for running semantic-release in a CI environment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Shane Lawrence <shane.lawrence@2hatsecurity.com>",
+  "license": "UNLICENSED"
 }
